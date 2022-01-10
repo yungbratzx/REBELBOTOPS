@@ -26,7 +26,7 @@ REBELBOT made by [![REBEL OP](https://img.shields.io/badge/Telegram-REBEL%20OP-i
 
 <h4>🔷 DEPLOY TO HEROKU 🔷</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAMREBELS/REBELBOTOP)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAMREBELS/REBELBOTOPS)
 
 
 <h2 align="center"> <a href="https://github.com/REBEL75/REBELUSER">⚡ REBEL USERBOT ⚡</a></h2>
