@@ -28,7 +28,7 @@
     },
     "COMMAND_HAND_LER": {
       "description": "Your command handler. Default is , . + ! * ' ",
-      "value": ""
+      "value": "."
     },
     "REBELBOT_ID": {
       "description": "Create a private channel/group add rose then type /id in group.",
