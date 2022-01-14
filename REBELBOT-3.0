@@ -37,9 +37,9 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $REBELPATH
-    echo " 𝗦𝗧𝗔𝗥𝗧 𝗥𝗘𝗕𝗘𝗟𝗕𝗢𝗧  "
+    echo " 𝗦𝗧𝗔𝗥𝗧 𝗥𝗘𝗕𝗘𝗟𝗕𝗢𝗧-3.0  "
 
-    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 .../setup/updater.py .../requirements.txt requirements.txt
     python3 -m userbot
 }
 
