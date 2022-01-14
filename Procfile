@@ -1,1 +1,1 @@
-worker: bash REBELBOT
+worker: bash REBELBOT-3.0
